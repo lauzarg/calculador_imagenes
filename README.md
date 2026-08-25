@@ -18,8 +18,8 @@ Aplicación Streamlit para medir elementos en imágenes o PDFs. Sube un document
 1. Clona el repositorio:
 
 ```powershell
-git clone <URL_DE_TU_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/lauzarg/calculador_imagenes.git
+cd calculador_imagenes
 ```
 
 2. Crea y activa un entorno virtual con Python 3.11:
